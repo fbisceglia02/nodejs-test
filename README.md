@@ -8,3 +8,7 @@ http://expressjs.com/en/starter/hello-world.html
 2) Install express generator tool
 ## express generator docs page
 http://expressjs.com/en/starter/generator.html
+
+3) add static use middleware
+## Serving static files in express
+https://expressjs.com/en/starter/static-files.html
